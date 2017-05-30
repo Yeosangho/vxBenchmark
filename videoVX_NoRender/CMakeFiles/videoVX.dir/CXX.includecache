@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/dev/vxProject/videoVX/main.cpp
+iostream
+-
+sstream
+-
+iomanip
+-
+memory
+-
+VX/vx.h
+-
+NVX/nvx_timer.hpp
+-
+NVXIO/Application.hpp
+/home/ubuntu/dev/vxProject/videoVX/NVXIO/Application.hpp
+NVXIO/FrameSource.hpp
+/home/ubuntu/dev/vxProject/videoVX/NVXIO/FrameSource.hpp
+NVXIO/ConfigParser.hpp
+-
+NVXIO/Render.hpp
+/home/ubuntu/dev/vxProject/videoVX/NVXIO/Render.hpp
+NVXIO/SyncTimer.hpp
+/home/ubuntu/dev/vxProject/videoVX/NVXIO/SyncTimer.hpp
+NVXIO/Utility.hpp
+/home/ubuntu/dev/vxProject/videoVX/NVXIO/Utility.hpp
+

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/dev/vxProject/videoCV/main.cpp
+opencv2/opencv.hpp
+/home/ubuntu/dev/vxProject/videoCV/opencv2/opencv.hpp
+iostream
+-
+opencv2/gpu/gpu.hpp
+/home/ubuntu/dev/vxProject/videoCV/opencv2/gpu/gpu.hpp
+

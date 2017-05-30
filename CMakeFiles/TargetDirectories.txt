@@ -1,0 +1,17 @@
+/home/ubuntu/dev/vxProject/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/concurrentVX/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/concurrentVX/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/concurrentVX/CMakeFiles/concurrentVX.dir
+/home/ubuntu/dev/vxProject/concurrentCV/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/concurrentCV/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/concurrentCV/CMakeFiles/concurrentCV.dir
+/home/ubuntu/dev/vxProject/videoVX_NoRender/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/videoVX_NoRender/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/videoVX_NoRender/CMakeFiles/videoVX_NoRender.dir
+/home/ubuntu/dev/vxProject/videoVX/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/videoVX/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/videoVX/CMakeFiles/videoVX.dir
+/home/ubuntu/dev/vxProject/videoCV/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/videoCV/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/videoCV/CMakeFiles/videoCV.dir

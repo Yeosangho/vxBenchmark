@@ -1,0 +1,3 @@
+/home/ubuntu/dev/vxProject/cannyVX/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/cannyVX/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/cannyVX/CMakeFiles/cannyVX.dir

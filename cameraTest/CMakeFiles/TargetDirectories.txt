@@ -1,0 +1,3 @@
+/home/ubuntu/dev/vxProject/cameraTest/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/cameraTest/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/cameraTest/CMakeFiles/cameraTest.dir

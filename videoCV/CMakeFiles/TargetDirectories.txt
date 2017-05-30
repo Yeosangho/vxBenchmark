@@ -1,0 +1,3 @@
+/home/ubuntu/dev/vxProject/videoCV/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/videoCV/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/videoCV/CMakeFiles/videoCV.dir

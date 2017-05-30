@@ -1,0 +1,3 @@
+/home/ubuntu/dev/vxProject/cannyCV_CPUGPU/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/cannyCV_CPUGPU/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/cannyCV_CPUGPU/CMakeFiles/cannyCV_CPUGPU.dir

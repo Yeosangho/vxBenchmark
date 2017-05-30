@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ubuntu/dev/vxProject/cannyVX_Immediate/main.cpp
+iostream
+-
+sstream
+-
+iomanip
+-
+memory
+-
+VX/vx.h
+-
+NVX/nvx_timer.hpp
+-
+NVXIO/Application.hpp
+/home/ubuntu/dev/vxProject/cannyVX_Immediate/NVXIO/Application.hpp
+NVXIO/FrameSource.hpp
+/home/ubuntu/dev/vxProject/cannyVX_Immediate/NVXIO/FrameSource.hpp
+NVXIO/ConfigParser.hpp
+-
+NVXIO/Render.hpp
+/home/ubuntu/dev/vxProject/cannyVX_Immediate/NVXIO/Render.hpp
+NVXIO/SyncTimer.hpp
+/home/ubuntu/dev/vxProject/cannyVX_Immediate/NVXIO/SyncTimer.hpp
+NVXIO/Utility.hpp
+/home/ubuntu/dev/vxProject/cannyVX_Immediate/NVXIO/Utility.hpp
+NVX/nvx_opencv_interop.hpp
+-
+opencv2/core/core.hpp
+-
+opencv2/core/mat.hpp
+-
+opencv2/highgui/highgui.hpp
+-
+opencv2/imgproc/imgproc.hpp
+-
+

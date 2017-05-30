@@ -1,0 +1,3 @@
+/home/ubuntu/dev/vxProject/videoCV_NoRender/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/videoCV_NoRender/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/videoCV_NoRender/CMakeFiles/videoCV_NoRender.dir

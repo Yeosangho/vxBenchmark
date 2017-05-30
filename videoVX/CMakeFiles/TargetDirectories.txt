@@ -1,0 +1,3 @@
+/home/ubuntu/dev/vxProject/videoVX/CMakeFiles/edit_cache.dir
+/home/ubuntu/dev/vxProject/videoVX/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/dev/vxProject/videoVX/CMakeFiles/videoVX.dir
